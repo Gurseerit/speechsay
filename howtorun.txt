@@ -1,3 +1,4 @@
+This is for speech.py not speechsay.py if its speechsay GOOGLE IT!
 Mininum Requirments:
 UBUNTU ONLY!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!  
 MAKE SURE YOUR TERMINAL RUNS PYTHON 3 NOT ANOTHER VERSION!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
@@ -12,14 +13,6 @@ type sudo apt-get install idle3
 now wait until it finishes
 now type idle3
 now in idle go up to file then new file
-paste: var = input("enter your text: ")
-print("_______")
-print("<" + var + ">")
-print("-------")
-print("    I    ")
-print("  ( ._.)   ")
-print(" /  II    ")
-print(" \___II-")
-save it 
-type ls is terminal then type the name of the file
+paste the file speech into it
+type python3 speech.py <text> into the terminal 
 now you're ready to go!
