@@ -1,4 +1,4 @@
-hello = input("enter the text")
+hello = input("enter the text: ")
 print("<" + hello + ">")
 print("      |      ")
 print("    (._.)    ")
